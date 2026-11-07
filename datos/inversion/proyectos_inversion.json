@@ -1,9 +1,9 @@
 {
- "fecha_corte": "2026-10-21",
- "fecha_corte_texto": "21 de octubre de 2026",
- "corte_avance_fisico": "II trimestre 2026",
+ "fecha_corte": "2026-11-06",
+ "fecha_corte_texto": "06 de noviembre de 2026",
+ "corte_avance_fisico": "III trimestre 2026",
  "ejercicio_fiscal": 2026,
- "generado": "2026-11-04 15:31",
+ "generado": "2026-11-06 22:57",
  "proyectos": [
   {
    "nombre": "MECANISMO PARA EL FORTALECIMIENTO DE CAPACIDADES Y POTENCIALIDADES PARA LA JUVENTUD JÓVENES EN ACCIÓN",
@@ -14,31 +14,31 @@
    "fecha_fin": "2027-12-31",
    "ejecutado_historico": 86591782.05,
    "pct_ejecucion_historica": 10.33,
-   "avance_fisico": 30.33,
+   "avance_fisico": 32.27,
    "codificado": 682556495.76,
-   "certificado": 74512.8,
-   "compromiso": 49281004.77,
-   "devengado": 49281004.77,
-   "disponible": 633200978.19,
-   "pct_ejecucion": 7.22,
+   "certificado": 27242.56,
+   "compromiso": 373184688.17,
+   "devengado": 373159548.17,
+   "disponible": 309344565.03,
+   "pct_ejecucion": 54.67,
    "grupos_gasto": [
     {
      "grupo": "71",
      "descripcion": "Gastos en personal para inversión",
      "codificado": 100577.71,
-     "devengado": 35004.77
+     "devengado": 41259.37
     },
     {
      "grupo": "73",
      "descripcion": "Bienes y servicios para inversión",
      "codificado": 591558.35,
-     "devengado": 0.0
+     "devengado": 39888.8
     },
     {
      "grupo": "78",
      "descripcion": "Transferencias y donaciones para inversión",
      "codificado": 681720000.0,
-     "devengado": 49246000.0
+     "devengado": 373078400.0
     },
     {
      "grupo": "84",
@@ -79,30 +79,30 @@
    "ejecutado_historico": 0.0,
    "pct_ejecucion_historica": 0.0,
    "avance_fisico": 41.12,
-   "codificado": 9265477.21,
-   "certificado": 908848.25,
-   "compromiso": 3887059.4,
-   "devengado": 2384029.82,
-   "disponible": 4465092.67,
-   "pct_ejecucion": 25.73,
+   "codificado": 9273038.81,
+   "certificado": 782515.67,
+   "compromiso": 5360237.82,
+   "devengado": 3851515.44,
+   "disponible": 3130285.32,
+   "pct_ejecucion": 41.53,
    "grupos_gasto": [
     {
      "grupo": "71",
      "descripcion": "Gastos en personal para inversión",
-     "codificado": 4650756.08,
-     "devengado": 1588093.36
+     "codificado": 4650756.09,
+     "devengado": 2290183.2
     },
     {
      "grupo": "73",
      "descripcion": "Bienes y servicios para inversión",
      "codificado": 43607.63,
-     "devengado": 240.0
+     "devengado": 2911.96
     },
     {
      "grupo": "78",
      "descripcion": "Transferencias y donaciones para inversión",
-     "codificado": 4571113.5,
-     "devengado": 795696.46
+     "codificado": 4578675.09,
+     "devengado": 1558420.28
     }
    ],
    "logros": [
@@ -129,19 +129,19 @@
    "fecha_fin": "2029-12-31",
    "ejecutado_historico": 0.0,
    "pct_ejecucion_historica": 0.0,
-   "avance_fisico": 0.0,
-   "codificado": 8251055.31,
+   "avance_fisico": 74.39,
+   "codificado": 8200060.02,
    "certificado": 5000.0,
-   "compromiso": 2688488.23,
-   "devengado": 2688488.23,
-   "disponible": 5505276.14,
-   "pct_ejecucion": 32.58,
+   "compromiso": 3913345.25,
+   "devengado": 3913345.25,
+   "disponible": 4281714.77,
+   "pct_ejecucion": 47.72,
    "grupos_gasto": [
     {
      "grupo": "71",
      "descripcion": "Gastos en personal para inversión",
-     "codificado": 8131925.16,
-     "devengado": 2688488.23
+     "codificado": 8131925.15,
+     "devengado": 3913345.25
     },
     {
      "grupo": "73",
@@ -152,14 +152,14 @@
     {
      "grupo": "75",
      "descripcion": "Obras públicas",
-     "codificado": 58380.15,
+     "codificado": 7384.87,
      "devengado": 0.0
     }
    ],
    "logros": [
     "Actualización de informes de necesidad para las construcciones y mantenimiento de obra.",
     "Coordinación de terrenos sobre la construcción.",
-    "Se logró la transición de la nomina correspondiente a los servicios CDI y CNH del proyecto “Fortalecimiento, ampliación e innovación de los servicios de desarrollo infantil, Estrategia Nacional Misión Ternura”, garantizando la continuidad de los servicios en territorio.",
+    "Se logró la transición de la nómina correspondiente a los servicios CDI y CNH del proyecto “Fortalecimiento, ampliación e innovación de los servicios de desarrollo infantil, Estrategia Nacional Misión Ternura”, garantizando la continuidad de los servicios en territorio.",
     "El personal técnico brindó atención a través del servicio Creciendo con Nuestros Hijos (CNH), beneficiando a 55.899 niñas y niños y 6.647 mujeres gestantes a nivel nacional."
    ],
    "nudos": [
@@ -180,30 +180,30 @@
    "ejecutado_historico": 0.0,
    "pct_ejecucion_historica": 0.0,
    "avance_fisico": 7.34,
-   "codificado": 7427217.38,
-   "certificado": 1305873.14,
-   "compromiso": 1963136.45,
-   "devengado": 749028.65,
-   "disponible": 4142956.97,
-   "pct_ejecucion": 10.08,
+   "codificado": 6763969.72,
+   "certificado": 1108720.66,
+   "compromiso": 2669735.44,
+   "devengado": 1253799.55,
+   "disponible": 2985513.62,
+   "pct_ejecucion": 18.54,
    "grupos_gasto": [
     {
      "grupo": "71",
      "descripcion": "Gastos en personal para inversión",
-     "codificado": 707558.47,
-     "devengado": 265189.19
+     "codificado": 722809.29,
+     "devengado": 351842.52
     },
     {
      "grupo": "73",
      "descripcion": "Bienes y servicios para inversión",
-     "codificado": 78161.28,
-     "devengado": 0.0
+     "codificado": 62910.46,
+     "devengado": 1488.4
     },
     {
      "grupo": "78",
      "descripcion": "Transferencias y donaciones para inversión",
-     "codificado": 6641497.63,
-     "devengado": 483839.46
+     "codificado": 5978249.97,
+     "devengado": 900468.63
     }
    ],
    "logros": [
@@ -227,31 +227,31 @@
    "fecha_fin": "2029-12-31",
    "ejecutado_historico": 0.0,
    "pct_ejecucion_historica": 0.0,
-   "avance_fisico": 18.03,
+   "avance_fisico": 23.05,
    "codificado": 6054907.96,
-   "certificado": 563600.7,
-   "compromiso": 2827699.05,
-   "devengado": 853882.19,
-   "disponible": 2656905.24,
-   "pct_ejecucion": 14.1,
+   "certificado": 583910.58,
+   "compromiso": 3000262.61,
+   "devengado": 1558454.83,
+   "disponible": 2470734.77,
+   "pct_ejecucion": 25.74,
    "grupos_gasto": [
     {
      "grupo": "71",
      "descripcion": "Gastos en personal para inversión",
-     "codificado": 231547.89,
-     "devengado": 86663.1
+     "codificado": 670681.89,
+     "devengado": 101970.76
     },
     {
      "grupo": "73",
      "descripcion": "Bienes y servicios para inversión",
-     "codificado": 1143093.03,
-     "devengado": 20237.7
+     "codificado": 963287.04,
+     "devengado": 100514.01
     },
     {
      "grupo": "78",
      "descripcion": "Transferencias y donaciones para inversión",
-     "codificado": 4260283.45,
-     "devengado": 746981.39
+     "codificado": 4000955.44,
+     "devengado": 1355970.06
     },
     {
      "grupo": "84",
@@ -277,48 +277,6 @@
    ]
   },
   {
-   "nombre": "PROYECTO DE GESTIÓN DEL SUBSISTEMA DE EMPLEO EN EL SERVICIO PÚBLICO",
-   "cup": "113150000.0000.388033",
-   "objetivo": "Implementar planes de desvinculación en las instituciones de la Función Ejecutiva, otras funciones del Estado y entidades creadas por la Constitución o la ley",
-   "monto_total": 1918278698.33,
-   "fecha_inicio": "2023-01-01",
-   "fecha_fin": "2026-12-31",
-   "ejecutado_historico": 704002141.93,
-   "pct_ejecucion_historica": 36.7,
-   "avance_fisico": 46.56,
-   "codificado": 4664572.24,
-   "certificado": 0.0,
-   "compromiso": 439475.69,
-   "devengado": 439475.69,
-   "disponible": 4225096.55,
-   "pct_ejecucion": 9.42,
-   "grupos_gasto": [
-    {
-     "grupo": "71",
-     "descripcion": "Gastos en personal para inversión",
-     "codificado": 4662601.37,
-     "devengado": 437984.31
-    },
-    {
-     "grupo": "99",
-     "descripcion": "Otros pasivos",
-     "codificado": 1970.87,
-     "devengado": 1491.38
-    }
-   ],
-   "logros": [
-    "4.686 ex servidores o ex trabajadores beneficiados por un monto de $229.841.799,89, desglosados de la siguiente manera:\n\nMinisterio de Educación, Deporte y Cultura\nEfectivo: USD 51.458.296,17 — 1.218 beneficiarios\nBonos del Estado: USD 114.133.877,50 — 2.275 beneficiarios\n\nMinisterio de Salud Pública\nEfectivo: USD 28.792.396,22 — 477 beneficiarios\nBonos del Estado: USD 2.265.600,00 — 44 beneficiarios\n\nOtras instituciones del PGE\nEfectivo: USD 11.613.412,50 — 216 beneficiarios\nBonos del Estado: USD 21.578.217,50 — 456 beneficiarios"
-   ],
-   "nudos": [
-    "Limitada asignación presupuestaria causa retrasos en el pago de la compensación jubilar. La deuda total pendiente alcanza aproximadamente USD 635.241.205,60 para 13.387 beneficiarios (corte 05 de octubre de 2026).",
-    "El proyecto “Gestión del Subsistema de Empleo en el Servicio Público”, cuenta con dictamen de prioridad hasta el año 2026; por lo que, de no contar con un nuevo proyecto de inversión no se garantizaría la continuidad del pago de las compensaciones jubilares"
-   ],
-   "acciones": [
-    "El Ministerio de Trabajo y Desarrollo Humano mantiene gestiones permanentes ante el Ministerio de Desarrollo Económico y Productivo para lograr la asignación de un presupuesto superior al de ejercicios fiscales anteriores, con el propósito de ampliar la cobertura de beneficiarios, reducir la deuda acumulada, garantizar la sostenibilidad y continuidad de los pagos correspondientes a la compensación jubilar.",
-    "Con el propósito de dar continuidad al pago de las compensaciones jubilares, se realizan gestiones internas para reorientar los saldos no ejecutados de los proyectos de inversión hacia el Proyecto “Gestión del Subsistema de Empleo en el Servicio Público”, por un monto de USD 4.198.569,50, a fin de disponer de los recursos necesarios para atender estas obligaciones."
-   ]
-  },
-  {
    "nombre": "COMPROMISO POR EL EMPLEO",
    "cup": "113150000.0000.387998",
    "objetivo": "Fortalecer el perfil profesional e impulsar la inclusión laboral de jóvenes de 18 a 26 años, mujeres y adultos de 45 a 64 años al mercado laboral formal mediante la identificación de la oferta y demanda laboral, gestión de capacitación, certificación por competencias laborales y la generación de mecanismos y herramientas para su inserción laboral.",
@@ -327,19 +285,19 @@
    "fecha_fin": "2027-12-31",
    "ejecutado_historico": 190713.34,
    "pct_ejecucion_historica": 0.66,
-   "avance_fisico": 5.19,
+   "avance_fisico": 6.74,
    "codificado": 4283421.57,
    "certificado": 1241181.9,
-   "compromiso": 777720.3,
-   "devengado": 109415.25,
-   "disponible": 2069720.27,
-   "pct_ejecucion": 2.55,
+   "compromiso": 777940.31,
+   "devengado": 109635.26,
+   "disponible": 2069500.26,
+   "pct_ejecucion": 2.56,
    "grupos_gasto": [
     {
      "grupo": "71",
      "descripcion": "Gastos en personal para inversión",
      "codificado": 189559.9,
-     "devengado": 45601.88
+     "devengado": 45821.89
     },
     {
      "grupo": "73",
@@ -359,7 +317,7 @@
     "927 Certificaciones de competencias (CCL)"
    ],
    "nudos": [
-    "Formación para el Trabajo: Brecha de 12.993 (6.192 de 19.185)\n\nCertificación de competencias : Brecha de 7.422 ( 484 de 7.906)",
+    "Formación para el Trabajo: Brecha de 12.993 (6.192 de 19.185)\n\nCertificación de competencias: Brecha de 7.422 ( 484 de 7.906)",
     "Meta C3: 5.976 en 2026 y 558 en el III trim. No se reportan colocaciones",
     "Se requiere fortalecer la trazabilidad nominal y la interoperabilidad para el seguimiento de 10.792 FT y 927 CCL.",
     "III trim.: 1,54% ejecutado de 6,37% programado (24,18%). Persisten brechas acumuladas."
@@ -381,19 +339,19 @@
    "fecha_fin": "2026-12-31",
    "ejecutado_historico": 10876320.34,
    "pct_ejecucion_historica": 64.08,
-   "avance_fisico": 66.04,
+   "avance_fisico": 66.31,
    "codificado": 2547177.58,
-   "certificado": 708133.16,
-   "compromiso": 804304.92,
-   "devengado": 28597.21,
-   "disponible": 1034739.5,
-   "pct_ejecucion": 1.12,
+   "certificado": 690678.82,
+   "compromiso": 836759.26,
+   "devengado": 550799.61,
+   "disponible": 1019739.5,
+   "pct_ejecucion": 21.62,
    "grupos_gasto": [
     {
      "grupo": "73",
      "descripcion": "Bienes y servicios para inversión",
      "codificado": 2547077.58,
-     "devengado": 28597.21
+     "devengado": 550799.61
     },
     {
      "grupo": "77",
@@ -412,7 +370,10 @@
    ],
    "acciones": [
     "Se gestiona la ampliación del techo presupuestario para garantizar la continuidad de los servicios de las Organizaciones de la Sociedad Civil (OSC) hasta diciembre de 2026, así como la ampliación del plazo de desembolsos ante el ente rector de las finanzas públicas y el Ministerio de Relaciones Exteriores y Movilidad Humana.",
-    "Gestionar el dictamen favorable para la emisión de las certificaciones presupuestarias plurianuales que permitan garantizar la continuidad de los servicios hasta 2027."
+    "Gestionar el dictamen favorable para la emisión de las certificaciones presupuestarias plurianuales que permitan garantizar la continuidad de los servicios hasta 2027.",
+    "Pendiente de aprobación de reforma de incremento fuente 701.",
+    "Gestionar el dictamen favorable de Certificaciones Presupuestarias Plurianuales para extender contratos de prestación de servicio hasta el 2027",
+    "Pendiente aprobación de la extensión de plazo por 6 meses del contrato de crédito: Responsable MDEP"
    ]
   },
   {
@@ -424,25 +385,25 @@
    "fecha_fin": "2029-12-31",
    "ejecutado_historico": 163128.1,
    "pct_ejecucion_historica": 0.41,
-   "avance_fisico": 13.37,
-   "codificado": 2335087.65,
-   "certificado": 44622.1,
-   "compromiso": 366187.88,
-   "devengado": 365387.88,
-   "disponible": 1838964.04,
-   "pct_ejecucion": 15.65,
+   "avance_fisico": 21.49,
+   "codificado": 2249774.02,
+   "certificado": 34862.11,
+   "compromiso": 493766.49,
+   "devengado": 493366.49,
+   "disponible": 1721145.42,
+   "pct_ejecucion": 21.93,
    "grupos_gasto": [
     {
      "grupo": "71",
      "descripcion": "Gastos en personal para inversión",
      "codificado": 993498.18,
-     "devengado": 364609.98
+     "devengado": 491228.6
     },
     {
      "grupo": "73",
      "descripcion": "Bienes y servicios para inversión",
-     "codificado": 1266696.47,
-     "devengado": 777.9
+     "codificado": 1181382.84,
+     "devengado": 2137.89
     },
     {
      "grupo": "84",
@@ -481,19 +442,19 @@
    "fecha_fin": "2029-12-31",
    "ejecutado_historico": 15635363.87,
    "pct_ejecucion_historica": 20.13,
-   "avance_fisico": 21.75,
+   "avance_fisico": 23.5,
    "codificado": 1759708.42,
-   "certificado": 81280.34,
-   "compromiso": 36984.58,
-   "devengado": 36984.58,
-   "disponible": 1641443.5,
-   "pct_ejecucion": 2.1,
+   "certificado": 1136314.62,
+   "compromiso": 121064.01,
+   "devengado": 39783.67,
+   "disponible": 502329.79,
+   "pct_ejecucion": 2.26,
    "grupos_gasto": [
     {
      "grupo": "71",
      "descripcion": "Gastos en personal para inversión",
      "codificado": 93048.34,
-     "devengado": 36984.58
+     "devengado": 39783.67
     },
     {
      "grupo": "73",
@@ -552,6 +513,84 @@
    ]
   },
   {
+   "nombre": "FORTALECIMIENTO DE LOS SERVICIOS DE PREVENCIÓN Y PROTECCIÓN ESPECIAL EN EL CICLO DE VIDA A NIVEL NACIONAL",
+   "cup": "102800000.0000.387151",
+   "objetivo": "Fortalecer los servicios de protección especial de acuerdo a modelo de atención y normativa técnica en el ciclo de vida con énfasis en las niñas, niños y adolescentes en situación de pobreza, extrema pobreza y vulnerabilidad en el Ecuador.",
+   "monto_total": 53292277.75,
+   "fecha_inicio": "2022-01-01",
+   "fecha_fin": "2025-12-31",
+   "ejecutado_historico": 50391276.58,
+   "pct_ejecucion_historica": 94.56,
+   "avance_fisico": 80.45,
+   "codificado": 663247.66,
+   "certificado": 0.0,
+   "compromiso": 0.0,
+   "devengado": 0.0,
+   "disponible": 663247.66,
+   "pct_ejecucion": 0.0,
+   "grupos_gasto": [
+    {
+     "grupo": "78",
+     "descripcion": "Transferencias y donaciones para inversión",
+     "codificado": 269152.67,
+     "devengado": 0.0
+    },
+    {
+     "grupo": "99",
+     "descripcion": "Otros pasivos",
+     "codificado": 394094.99,
+     "devengado": 0.0
+    }
+   ],
+   "logros": [],
+   "nudos": [],
+   "acciones": [
+    "Pago de arrastres de convenios, egreso de personal y contrato de mantenimiento del centro infanto juvenil femenino de Guayaquil"
+   ]
+  },
+  {
+   "nombre": "PROYECTO DE GESTIÓN DEL SUBSISTEMA DE EMPLEO EN EL SERVICIO PÚBLICO",
+   "cup": "113150000.0000.388033",
+   "objetivo": "Implementar planes de desvinculación en las instituciones de la Función Ejecutiva, otras funciones del Estado y entidades creadas por la Constitución o la ley",
+   "monto_total": 1918278698.33,
+   "fecha_inicio": "2023-01-01",
+   "fecha_fin": "2026-12-31",
+   "ejecutado_historico": 704002141.93,
+   "pct_ejecucion_historica": 36.7,
+   "avance_fisico": 50.47,
+   "codificado": 525297.74,
+   "certificado": 0.0,
+   "compromiso": 490790.38,
+   "devengado": 490790.38,
+   "disponible": 34316.21,
+   "pct_ejecucion": 93.43,
+   "grupos_gasto": [
+    {
+     "grupo": "71",
+     "descripcion": "Gastos en personal para inversión",
+     "codificado": 523326.87,
+     "devengado": 489299.0
+    },
+    {
+     "grupo": "99",
+     "descripcion": "Otros pasivos",
+     "codificado": 1970.87,
+     "devengado": 1491.38
+    }
+   ],
+   "logros": [
+    "4.686 ex servidores o ex trabajadores beneficiados por un monto de $229.841.799,89, desglosados de la siguiente manera:\n\nMinisterio de Educación, Deporte y Cultura\nEfectivo: USD 51.458.296,17 — 1.218 beneficiarios\nBonos del Estado: USD 114.133.877,50 — 2.275 beneficiarios\n\nMinisterio de Salud Pública\nEfectivo: USD 28.792.396,22 — 477 beneficiarios\nBonos del Estado: USD 2.265.600,00 — 44 beneficiarios\n\nOtras instituciones del PGE\nEfectivo: USD 11.613.412,50 — 216 beneficiarios\nBonos del Estado: USD 21.578.217,50 — 456 beneficiarios"
+   ],
+   "nudos": [
+    "Limitada asignación presupuestaria causa retrasos en el pago de la compensación jubilar. La deuda total pendiente alcanza aproximadamente USD 635.241.205,60 para 13.387 beneficiarios (corte 05 de octubre de 2026).",
+    "El proyecto “Gestión del Subsistema de Empleo en el Servicio Público”, cuenta con dictamen de prioridad hasta el año 2026; por lo que, de no contar con un nuevo proyecto de inversión no se garantizaría la continuidad del pago de las compensaciones jubilares"
+   ],
+   "acciones": [
+    "El Ministerio de Trabajo y Desarrollo Humano mantiene gestiones permanentes ante el Ministerio de Desarrollo Económico y Productivo para lograr la asignación de un presupuesto superior al de ejercicios fiscales anteriores, con el propósito de ampliar la cobertura de beneficiarios, reducir la deuda acumulada, garantizar la sostenibilidad y continuidad de los pagos correspondientes a la compensación jubilar.",
+    "Con el propósito de dar continuidad al pago de las compensaciones jubilares, se realizan gestiones internas para reorientar los saldos no ejecutados de los proyectos de inversión hacia el Proyecto “Gestión del Subsistema de Empleo en el Servicio Público”, por un monto de USD 4.198.569,50, a fin de disponer de los recursos necesarios para atender estas obligaciones."
+   ]
+  },
+  {
    "nombre": "DISEÑO E IMPLEMENTACIÓN DE SERVICIOS DE INCLUSIÓN ECONÓMICA Y SOCIAL DIRIGIDOS A USUARIOS DEL MIES",
    "cup": "102800000.0000.384446",
    "objetivo": "Implementar servicios de inclusión económica y social para mejorar el nivel socioeconómico de la población en condiciones de pobreza y vulnerabilidad.",
@@ -560,25 +599,25 @@
    "fecha_fin": "2027-12-31",
    "ejecutado_historico": 13937629.15,
    "pct_ejecucion_historica": 54.12,
-   "avance_fisico": 32.65,
+   "avance_fisico": 34.44,
    "codificado": 474791.62,
-   "certificado": 64970.0,
-   "compromiso": 58791.46,
-   "devengado": 35797.71,
-   "disponible": 351030.16,
-   "pct_ejecucion": 7.54,
+   "certificado": 0.0,
+   "compromiso": 124252.05,
+   "devengado": 89688.3,
+   "disponible": 350539.57,
+   "pct_ejecucion": 18.89,
    "grupos_gasto": [
     {
      "grupo": "71",
      "descripcion": "Gastos en personal para inversión",
      "codificado": 63942.02,
-     "devengado": 29093.71
+     "devengado": 29584.3
     },
     {
      "grupo": "73",
      "descripcion": "Bienes y servicios para inversión",
      "codificado": 410262.89,
-     "devengado": 6704.0
+     "devengado": 60104.0
     },
     {
      "grupo": "99",
@@ -588,7 +627,7 @@
     }
    ],
    "logros": [
-    "Cierre exitoso de la etapa de justificación de gastos de los acuerdos de préstamos BIRF 8946 y 9388, además las auditorias financieras expresan opinión sin salvedades.",
+    "Cierre exitoso de la etapa de justificación de gastos de los acuerdos de préstamos BIRF 8946 y 9388, además las auditorías financieras expresan opinión sin salvedades.",
     "Ejecución de la Encuesta ENDI por parte del INEC (co-ejecutor) con un monto de 3,9 millones para el 2026.",
     "Al 30 de septiembre de 2026 se ha alcanzado el 81,83% de la meta de 135.000, mujeres embarazadas y niños pobres menores de 3 años en parroquias priorizadas que reciben transferencias monetarias condicionales definidas (BMD/BDH/BDHV) y servicios de desarrollo infantil integral."
    ],
@@ -650,7 +689,7 @@
    "nudos": [
     "Contrato MIES-SDII-2023-001 (construcción CDI Nuevo Ecuador en Durán)\nDemora en la certificación presupuestaria por parte de la Dirección Financiera para gestionar el pago de la planilla.\nEntrega de las pólizas vigentes por parte del contratista\nFinalizar el proceso en el SOCE",
     "Contrato MIES-SDII-2023-002 (construcción CDI, sector los girasoles, cantón La Libertad):\nInterposición presentada en el contencioso administrativo por el Contratista al acto administrativo de terminación unilateral.\nLa obra está en riesgo de que se deteriore, sufra vandalismo, robo o invasión del predio.",
-    "Contrato MIES-SDII-2023-003 (construcción CDI César Plaza Monzón en Esmeraldas):\nDemora en la certificación presupuestaria por parte de la Dirección Financiera para el pago de la planilla Nro. 5.\nEsta pendiente por entregar la planilla Nro. 6 por parte del contratista.\nEntrega de las pólizas vigentes por parte del contratista\nLa falta de pago debido a la demora en la emisión delas certificación presupuestaria genera la alerta para el funcionamiento del CDI, ya que el contratista adeuda el transformador y proveedor de este pretender retirarlo."
+    "Contrato MIES-SDII-2023-003 (construcción CDI César Plaza Monzón en Esmeraldas):\nDemora en la certificación presupuestaria por parte de la Dirección Financiera para el pago de la planilla Nro. 5.\nEsta pendiente por entregar la planilla Nro. 6 por parte del contratista.\nEntrega de las pólizas vigentes por parte del contratista\nLa falta de pago debido a la demora en la emisión de la certificación presupuestaria genera la alerta para el funcionamiento del CDI, ya que el contratista adeuda el transformador y proveedor de este pretender retirarlo."
    ],
    "acciones": [
     "Gestionar el pago de obligaciones de años anteriores de los Contratos MIES-SDII-2023-001 (construcción CDI Nuevo Ecuador en Durán) y MIES-SDII-2023-003 (construcción CDI César Plaza Monzón en Esmeraldas).",
@@ -714,6 +753,47 @@
    ]
   },
   {
+   "nombre": "SOSTENIBILIDAD DE LOS SERVICIOS GERONTOLÓGICOS Y AMPLIACIÓN DE LA COBERTURA CON UN ENFOQUE EN EL ENVEJECIMIENTO",
+   "cup": "102800000.0000.387169",
+   "objetivo": "Fortalecer el Sistema de Inclusión y Equidad Social para la protección y atención integral en el ejercicio de los derechos para la población adulta mayor, con énfasis en las que se encuentran en condiciones de pobreza, extrema pobreza y vulnerabilidad",
+   "monto_total": 75917509.58,
+   "fecha_inicio": "2022-01-01",
+   "fecha_fin": "2025-12-31",
+   "ejecutado_historico": 74621364.18,
+   "pct_ejecucion_historica": 98.29,
+   "avance_fisico": 99.78,
+   "codificado": 191959.31,
+   "certificado": 0.0,
+   "compromiso": 6020.31,
+   "devengado": 6020.31,
+   "disponible": 185939.0,
+   "pct_ejecucion": 3.14,
+   "grupos_gasto": [
+    {
+     "grupo": "78",
+     "descripcion": "Transferencias y donaciones para inversión",
+     "codificado": 123106.88,
+     "devengado": 0.0
+    },
+    {
+     "grupo": "99",
+     "descripcion": "Otros pasivos",
+     "codificado": 68852.43,
+     "devengado": 6020.31
+    }
+   ],
+   "logros": [
+    "Se realizó la reactivación e incorporación del proyecto de arrastre en el Plan Anual de Inversiones (PAI) institucional 2026, viabilizando la gestión financiera de las obligaciones pendientes relacionadas con liquidaciones de personal, convenios y procesos de contratación pública, como parte del cumplimiento del ciclo de inversión y la culminación del proceso de baja del proyecto, conforme a los lineamientos establecidos."
+   ],
+   "nudos": [
+    "Como resultado del proceso de fusión Ministerial, no se asignó la totalidad de los recursos postulados para atender las obligaciones pendientes del proyecto de inversión. La asignación se concentró en la partida presupuestaria 990101, lo que permite gestionar el pago de liquidaciones de personal; sin embargo, permanecen pendientes obligaciones correspondientes a convenios, un proceso de contratación pública y viáticos del equipo técnico, cuya atención depende de la disponibilidad y asignación de recursos presupuestarios."
+   ],
+   "acciones": [
+    "Seguimiento a la gestión de pagos: Coordinar y dar seguimiento al pago de las liquidaciones de personal de las EODS que reportaron pasivos a nivel nacional, conforme a la disponibilidad presupuestaria y los procedimientos establecidos.",
+    "Gestión de un nuevo proyecto de arrastre: Gestionar la activación de un nuevo arrastre para el año 2027 que permita atender las obligaciones pendientes por convenios, contratación pública y viáticos del equipo técnico, a fin de completar los pagos y avanzar en el cierre del ciclo del proyecto de inversión, conforme a los lineamientos vigentes."
+   ]
+  },
+  {
    "nombre": "INNOVACIÓN AUTOMATIZACIÓN PARA LA TRANSFORMACIÓN INTEGRAL DE LAS CAPACIDADES INSTITUCIONALES DEL MTDH -INNOVAMTDH",
    "cup": "102800000.0000.391021",
    "objetivo": "Fortalecer las capacidades institucionales a través de la innovación, automatización y modernización tecnológica, para garantizar la eficiencia operativa, la formación continua y la acreditación del personal, así como la mejora en la calidad de los servicios del MTDH ofrecidos a la ciudadanía.",
@@ -722,19 +802,19 @@
    "fecha_fin": "2029-12-31",
    "ejecutado_historico": 0.0,
    "pct_ejecucion_historica": 0.0,
-   "avance_fisico": 5.71,
+   "avance_fisico": 12.55,
    "codificado": 148811.56,
-   "certificado": 0.0,
-   "compromiso": 51279.0,
-   "devengado": 51279.0,
-   "disponible": 97532.56,
-   "pct_ejecucion": 34.46,
+   "certificado": 2396.68,
+   "compromiso": 51741.18,
+   "devengado": 51741.18,
+   "disponible": 94673.7,
+   "pct_ejecucion": 34.77,
    "grupos_gasto": [
     {
      "grupo": "71",
      "descripcion": "Gastos en personal para inversión",
      "codificado": 113529.5,
-     "devengado": 51279.0
+     "devengado": 51741.18
     },
     {
      "grupo": "73",
@@ -766,46 +846,11 @@
     "Continuar con el proceso de reconocimiento como Organismo Evaluador de la Conformidad (OEC) para la certificación de competencias laborales del personal que presta los servicios sociales, una vez que se actualice la normativa de la Subsecretaría de Cualificaciones Profesionales y Gestión Artesanal.",
     "Definir según las directrices de la Subsecretaría de Cualificaciones Profesionales y Gestión Artesanal, la nueva estructura del Comité de Certificación debido a que hubo cambios de personal que figuraba dentro del comité.",
     "Coordinar los eventos de graduación de la primera Cohorte dual focalizada, de la Tecnología Superior en Educación Inicial a nivel Nacional.",
-    "Implementar 3 cursos nuevos en la Plataforma de Formación Continua, de acuerdo con las necesidades de capacitación identificadas por las diferentes subsecretarias del Ministerio .",
+    "Implementar 3 cursos nuevos en la Plataforma de Formación Continua, de acuerdo con las necesidades de capacitación identificadas por las diferentes subsecretarías del Ministerio.",
     "Ejecutar 6 cursos réplica, para ampliar la cobertura de la oferta formativa y fortalecer las competencias técnicas y operativas del talento humano institucional.",
     "Coordinar con los equipos de CDI, CNH y Validación de Perfiles un cronograma de revisión y aprobación de módulos y actualizaciones, priorizando las observaciones que incidan en los procesos institucionales.",
     "Planificar la habilitación progresiva de las funcionalidades aprobadas, incluyendo la comunicación a los usuarios, el seguimiento de incidencias y la definición de mecanismos de contingencia.",
     "Consolidar y evaluar los resultados alcanzados, fortalecer la capacitación a usuarios según las necesidades identificadas y verificar el cumplimiento de los entregables e indicadores respecto de las metas anuales establecidas."
-   ]
-  },
-  {
-   "nombre": "SOSTENIBILIDAD DE LOS SERVICIOS GERONTOLÓGICOS Y AMPLIACIÓN DE LA COBERTURA CON UN ENFOQUE EN EL ENVEJECIMIENTO",
-   "cup": "102800000.0000.387169",
-   "objetivo": "Fortalecer el Sistema de Inclusión y Equidad Social para la protección y atención integral en el ejercicio de los derechos para la población adulta mayor, con énfasis en las que se encuentran en condiciones de pobreza, extrema pobreza y vulnerabilidad",
-   "monto_total": 75917509.58,
-   "fecha_inicio": "2022-01-01",
-   "fecha_fin": "2025-12-31",
-   "ejecutado_historico": 74621364.18,
-   "pct_ejecucion_historica": 98.29,
-   "avance_fisico": 99.78,
-   "codificado": 63211.99,
-   "certificado": 0.0,
-   "compromiso": 2329.98,
-   "devengado": 2329.98,
-   "disponible": 60882.01,
-   "pct_ejecucion": 3.69,
-   "grupos_gasto": [
-    {
-     "grupo": "99",
-     "descripcion": "Otros pasivos",
-     "codificado": 63211.99,
-     "devengado": 2329.98
-    }
-   ],
-   "logros": [
-    "Se realizó la reactivación e incorporación del proyecto de arrastre en el Plan Anual de Inversiones (PAI) institucional 2026, viabilizando la gestión financiera de las obligaciones pendientes relacionadas con liquidaciones de personal, convenios y procesos de contratación pública, como parte del cumplimiento del ciclo de inversión y la culminación del proceso de baja del proyecto, conforme a los lineamientos establecidos."
-   ],
-   "nudos": [
-    "Como resultado del proceso de fusión Ministerial, no se asignó la totalidad de los recursos postulados para atender las obligaciones pendientes del proyecto de inversión. La asignación se concentró en la partida presupuestaria 990101, lo que permite gestionar el pago de liquidaciones de personal; sin embargo, permanecen pendientes obligaciones correspondientes a convenios, un proceso de contratación pública y viáticos del equipo técnico, cuya atención depende de la disponibilidad y asignación de recursos presupuestarios."
-   ],
-   "acciones": [
-    "Seguimiento a la gestión de pagos: Coordinar y dar seguimiento al pago de las liquidaciones de personal de las EODS que reportaron pasivos a nivel nacional, conforme a la disponibilidad presupuestaria y los procedimientos establecidos.",
-    "Gestión de un nuevo proyecto de arrastre: Gestionar la activación de un nuevo arrastre para el año 2027 que permita atender las obligaciones pendientes por convenios, contratación pública y viáticos del equipo técnico, a fin de completar los pagos y avanzar en el cierre del ciclo del proyecto de inversión, conforme a los lineamientos vigentes."
    ]
   },
   {
@@ -820,21 +865,23 @@
    "avance_fisico": 92.47,
    "codificado": 5845.74,
    "certificado": 0.0,
-   "compromiso": 0.0,
-   "devengado": 0.0,
-   "disponible": 5845.74,
-   "pct_ejecucion": 0.0,
+   "compromiso": 3442.98,
+   "devengado": 3442.98,
+   "disponible": 2402.76,
+   "pct_ejecucion": 58.9,
    "grupos_gasto": [
     {
      "grupo": "99",
      "descripcion": "Otros pasivos",
      "codificado": 5845.74,
-     "devengado": 0.0
+     "devengado": 3442.98
     }
    ],
    "logros": [],
    "nudos": [],
-   "acciones": []
+   "acciones": [
+    "Pago de arrastres"
+   ]
   },
   {
    "nombre": "INFANCIA CON FUTURO",
@@ -861,7 +908,7 @@
     }
    ],
    "logros": [
-    "Mediante Oficio Nro. PR-SSDP-2026-0722-O del 20 de mayo de 2026, la Subsecretaría de Planificación de la Presidencia de la Republica emitió dictamen favorable a la modificación presupuestaria de inclusión y transferencia de recursos para el pago de obligaciones del Proyecto Infancia con Futuro por un monto de $ 31.596,81",
+    "Mediante Oficio Nro. PR-SSDP-2026-0722-O del 20 de mayo de 2026, la Subsecretaría de Planificación de la Presidencia de la República emitió dictamen favorable a la modificación presupuestaria de inclusión y transferencia de recursos para el pago de obligaciones del Proyecto Infancia con Futuro por un monto de $ 31.596,81",
     "Se gestionaron un total de 33 expedientes de liquidaciones de haberes y se han cancelados los rubros de viáticos y fondos de reserva pendientes."
    ],
    "nudos": [
