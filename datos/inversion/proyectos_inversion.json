@@ -1,9 +1,9 @@
 {
- "fecha_corte": "2026-11-11",
- "fecha_corte_texto": "11 de noviembre de 2026",
+ "fecha_corte": "2026-11-12",
+ "fecha_corte_texto": "12 de noviembre de 2026",
  "corte_avance_fisico": "III trimestre 2026",
  "ejercicio_fiscal": 2026,
- "generado": "2026-11-11 09:47",
+ "generado": "2026-11-12 09:31",
  "proyectos": [
   {
    "nombre": "MECANISMO PARA EL FORTALECIMIENTO DE CAPACIDADES Y POTENCIALIDADES PARA LA JUVENTUD JÓVENES EN ACCIÓN",
@@ -16,23 +16,23 @@
    "pct_ejecucion_historica": 10.33,
    "avance_fisico": 32.27,
    "codificado": 682556495.76,
-   "certificado": 30594.56,
-   "compromiso": 374219374.77,
-   "devengado": 374194234.77,
-   "disponible": 308306526.43,
+   "certificado": 24568.0,
+   "compromiso": 374221272.93,
+   "devengado": 374197808.93,
+   "disponible": 308310654.83,
    "pct_ejecucion": 54.82,
    "grupos_gasto": [
     {
      "grupo": "71",
      "descripcion": "Gastos en personal para inversión",
      "codificado": 100577.71,
-     "devengado": 41545.97
+     "devengado": 43444.13
     },
     {
      "grupo": "73",
      "descripcion": "Bienes y servicios para inversión",
      "codificado": 591558.35,
-     "devengado": 39888.8
+     "devengado": 41564.8
     },
     {
      "grupo": "78",
@@ -80,17 +80,17 @@
    "pct_ejecucion_historica": 0.0,
    "avance_fisico": 41.12,
    "codificado": 9273038.81,
-   "certificado": 767050.86,
-   "compromiso": 5422750.62,
-   "devengado": 3924181.21,
-   "disponible": 3083237.33,
-   "pct_ejecucion": 42.32,
+   "certificado": 676838.44,
+   "compromiso": 5574854.79,
+   "devengado": 4083806.45,
+   "disponible": 3021345.58,
+   "pct_ejecucion": 44.04,
    "grupos_gasto": [
     {
      "grupo": "71",
      "descripcion": "Gastos en personal para inversión",
      "codificado": 4650756.09,
-     "devengado": 2313737.47
+     "devengado": 2375629.22
     },
     {
      "grupo": "73",
@@ -102,7 +102,7 @@
      "grupo": "78",
      "descripcion": "Transferencias y donaciones para inversión",
      "codificado": 4578675.09,
-     "devengado": 1607531.78
+     "devengado": 1705265.27
     }
    ],
    "logros": [
@@ -132,16 +132,16 @@
    "avance_fisico": 74.39,
    "codificado": 8200060.02,
    "certificado": 5000.0,
-   "compromiso": 3949531.02,
-   "devengado": 3949531.02,
-   "disponible": 4245529.0,
-   "pct_ejecucion": 48.16,
+   "compromiso": 4005066.23,
+   "devengado": 4005066.23,
+   "disponible": 4184631.88,
+   "pct_ejecucion": 48.84,
    "grupos_gasto": [
     {
      "grupo": "71",
      "descripcion": "Gastos en personal para inversión",
      "codificado": 8131925.15,
-     "devengado": 3949531.02
+     "devengado": 4005066.23
     },
     {
      "grupo": "73",
@@ -181,17 +181,17 @@
    "pct_ejecucion_historica": 0.0,
    "avance_fisico": 7.34,
    "codificado": 6763969.72,
-   "certificado": 1166791.28,
-   "compromiso": 2689021.82,
-   "devengado": 1260538.62,
-   "disponible": 2908156.62,
-   "pct_ejecucion": 18.64,
+   "certificado": 1066674.95,
+   "compromiso": 2811237.67,
+   "devengado": 1322047.44,
+   "disponible": 2886057.1,
+   "pct_ejecucion": 19.55,
    "grupos_gasto": [
     {
      "grupo": "71",
      "descripcion": "Gastos en personal para inversión",
      "codificado": 722809.29,
-     "devengado": 354868.38
+     "devengado": 376967.9
     },
     {
      "grupo": "73",
@@ -203,7 +203,7 @@
      "grupo": "78",
      "descripcion": "Transferencias y donaciones para inversión",
      "codificado": 5978249.97,
-     "devengado": 904022.34
+     "devengado": 943431.64
     }
    ],
    "logros": [
@@ -229,29 +229,29 @@
    "pct_ejecucion_historica": 0.0,
    "avance_fisico": 23.05,
    "codificado": 6054907.96,
-   "certificado": 600795.25,
-   "compromiso": 3006609.03,
-   "devengado": 1636933.62,
-   "disponible": 2447503.68,
-   "pct_ejecucion": 27.03,
+   "certificado": 618766.42,
+   "compromiso": 3032053.76,
+   "devengado": 1680457.98,
+   "disponible": 2404087.78,
+   "pct_ejecucion": 27.75,
    "grupos_gasto": [
     {
      "grupo": "71",
      "descripcion": "Gastos en personal para inversión",
      "codificado": 670681.89,
-     "devengado": 102598.18
+     "devengado": 117454.31
     },
     {
      "grupo": "73",
      "descripcion": "Bienes y servicios para inversión",
      "codificado": 963287.04,
-     "devengado": 116792.13
+     "devengado": 117266.42
     },
     {
      "grupo": "78",
      "descripcion": "Transferencias y donaciones para inversión",
      "codificado": 4000955.44,
-     "devengado": 1417543.31
+     "devengado": 1445737.25
     },
     {
      "grupo": "84",
@@ -288,16 +288,16 @@
    "avance_fisico": 6.74,
    "codificado": 4283421.57,
    "certificado": 1241181.9,
-   "compromiso": 777940.31,
-   "devengado": 109635.26,
-   "disponible": 2069500.26,
-   "pct_ejecucion": 2.56,
+   "compromiso": 780695.07,
+   "devengado": 112390.02,
+   "disponible": 2066745.5,
+   "pct_ejecucion": 2.62,
    "grupos_gasto": [
     {
      "grupo": "71",
      "descripcion": "Gastos en personal para inversión",
      "codificado": 189559.9,
-     "devengado": 45821.89
+     "devengado": 48576.65
     },
     {
      "grupo": "73",
@@ -341,17 +341,17 @@
    "pct_ejecucion_historica": 64.08,
    "avance_fisico": 66.31,
    "codificado": 2547177.58,
-   "certificado": 690678.82,
-   "compromiso": 836759.26,
-   "devengado": 670350.39,
+   "certificado": 675678.82,
+   "compromiso": 851759.26,
+   "devengado": 681725.51,
    "disponible": 1019739.5,
-   "pct_ejecucion": 26.32,
+   "pct_ejecucion": 26.76,
    "grupos_gasto": [
     {
      "grupo": "73",
      "descripcion": "Bienes y servicios para inversión",
      "codificado": 2547077.58,
-     "devengado": 670350.39
+     "devengado": 681725.51
     },
     {
      "grupo": "77",
@@ -387,23 +387,23 @@
    "pct_ejecucion_historica": 0.41,
    "avance_fisico": 21.49,
    "codificado": 2249774.02,
-   "certificado": 51605.11,
-   "compromiso": 496180.35,
-   "devengado": 495700.35,
-   "disponible": 1701988.56,
-   "pct_ejecucion": 22.03,
+   "certificado": 52007.11,
+   "compromiso": 523918.55,
+   "devengado": 523358.55,
+   "disponible": 1673848.36,
+   "pct_ejecucion": 23.26,
    "grupos_gasto": [
     {
      "grupo": "71",
      "descripcion": "Gastos en personal para inversión",
      "codificado": 993498.18,
-     "devengado": 493243.96
+     "devengado": 520742.16
     },
     {
      "grupo": "73",
      "descripcion": "Bienes y servicios para inversión",
      "codificado": 1181382.84,
-     "devengado": 2456.39
+     "devengado": 2616.39
     },
     {
      "grupo": "84",
@@ -444,17 +444,17 @@
    "pct_ejecucion_historica": 20.13,
    "avance_fisico": 23.5,
    "codificado": 1759708.42,
-   "certificado": 0.0,
-   "compromiso": 1257378.63,
-   "devengado": 1176098.29,
-   "disponible": 502329.79,
-   "pct_ejecucion": 66.83,
+   "certificado": 977.4,
+   "compromiso": 1262811.23,
+   "devengado": 1182508.29,
+   "disponible": 495919.79,
+   "pct_ejecucion": 67.2,
    "grupos_gasto": [
     {
      "grupo": "71",
      "descripcion": "Gastos en personal para inversión",
      "codificado": 93048.34,
-     "devengado": 39783.67
+     "devengado": 46193.67
     },
     {
      "grupo": "73",
@@ -524,10 +524,10 @@
    "avance_fisico": 80.45,
    "codificado": 663247.66,
    "certificado": 13427.41,
-   "compromiso": 0.0,
-   "devengado": 0.0,
-   "disponible": 649820.25,
-   "pct_ejecucion": 0.0,
+   "compromiso": 1215.48,
+   "devengado": 1215.48,
+   "disponible": 648604.77,
+   "pct_ejecucion": 0.18,
    "grupos_gasto": [
     {
      "grupo": "78",
@@ -539,7 +539,7 @@
      "grupo": "99",
      "descripcion": "Otros pasivos",
      "codificado": 394094.99,
-     "devengado": 0.0
+     "devengado": 1215.48
     }
    ],
    "logros": [],
@@ -564,16 +564,16 @@
    "avance_fisico": 50.47,
    "codificado": 525297.74,
    "certificado": 0.0,
-   "compromiso": 490790.38,
-   "devengado": 490790.38,
-   "disponible": 34507.36,
-   "pct_ejecucion": 93.43,
+   "compromiso": 492318.67,
+   "devengado": 492318.67,
+   "disponible": 32979.07,
+   "pct_ejecucion": 93.72,
    "grupos_gasto": [
     {
      "grupo": "71",
      "descripcion": "Gastos en personal para inversión",
      "codificado": 523135.72,
-     "devengado": 489299.0
+     "devengado": 490827.29
     },
     {
      "grupo": "99",
@@ -606,22 +606,22 @@
    "avance_fisico": 34.44,
    "codificado": 474791.62,
    "certificado": 0.0,
-   "compromiso": 124252.05,
-   "devengado": 95028.3,
-   "disponible": 350539.57,
-   "pct_ejecucion": 20.01,
+   "compromiso": 127333.1,
+   "devengado": 100779.35,
+   "disponible": 347458.52,
+   "pct_ejecucion": 21.23,
    "grupos_gasto": [
     {
      "grupo": "71",
      "descripcion": "Gastos en personal para inversión",
      "codificado": 63942.02,
-     "devengado": 29584.3
+     "devengado": 32665.35
     },
     {
      "grupo": "73",
      "descripcion": "Bienes y servicios para inversión",
      "codificado": 410262.89,
-     "devengado": 65444.0
+     "devengado": 68114.0
     },
     {
      "grupo": "99",
@@ -809,16 +809,16 @@
    "avance_fisico": 12.55,
    "codificado": 148811.56,
    "certificado": 2396.68,
-   "compromiso": 51741.18,
-   "devengado": 51741.18,
-   "disponible": 94673.7,
-   "pct_ejecucion": 34.77,
+   "compromiso": 63156.5,
+   "devengado": 63156.5,
+   "disponible": 83258.38,
+   "pct_ejecucion": 42.44,
    "grupos_gasto": [
     {
      "grupo": "71",
      "descripcion": "Gastos en personal para inversión",
      "codificado": 113529.5,
-     "devengado": 51741.18
+     "devengado": 63156.5
     },
     {
      "grupo": "73",
